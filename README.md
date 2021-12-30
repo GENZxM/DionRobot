@@ -7,20 +7,20 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7b375b3abb0b483fd0d98.jpg">
+  <img src="https://telegra.ph/file/4add51259bdeb9536855d.jpg">
 </p>
 
-## Found Me On Telegram [@JisooXRobot](https://t.me/AnosVoldigoadBot)
+## Found Me On Telegram [@DionRobot](https://t.me/DionRobot)
 
 
 
 # DEPLOY
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sophiashirashaki/JisooXRobot">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SeorangDion/DionRobot">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 ## Group Support:
 
-   <a href="https://t.me/AnosSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/DionSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 ### Credit :  [Cinderella](https://github.com/Sur-vivor/CinderellaProBot) And [DaisyX](https://github.com/TeamDaisyX/DaisyX)           
