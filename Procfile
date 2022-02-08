@@ -1,2 +1,2 @@
-worker: python-3.9.7
+worker:python3 -JisooX
 ps:scale worker=1
