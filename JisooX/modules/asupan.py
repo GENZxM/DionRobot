@@ -20,4 +20,4 @@ async def chika(event):
         chikanya = f"{resp['url']}"
         return await tbot.send_file(event.chat_id, chikanya)
     except Exception:
-        await event.reply("`Error 404 not found...`")
+        await event.reply("`𝙀𝙍𝙍𝙊𝙍 404 𝙉𝙊𝙏 𝙁𝙊𝙐𝙉𝘿...`")
