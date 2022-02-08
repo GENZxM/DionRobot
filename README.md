@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4add51259bdeb9536855d.jpg">
+  <img src="https://telegra.ph/file/a30bd9836f7d9a0ed0651.jpg">
 </p>
 
 ## Found Me On Telegram [@DionRobot](https://t.me/DionRobot)
